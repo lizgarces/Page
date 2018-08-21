@@ -1,0 +1,93 @@
+
+body {
+	padding-top: 70px;
+	background-color:#ddf2ff;
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.navbar-brand a{
+	color:black;
+	font-size: 2.5rem;
+	font-weight:200;
+}
+
+.btn {
+	background-color: inherit;
+}
+
+.card {
+	background-color: inherit;
+}
+
+
+.card-header {
+	font-size: 1.4rem;
+	font-size-adjust: auto;
+	text-align: center;
+	width: 100%;
+}
+
+.card-body {
+	font-size: 1rem;
+	font-size-adjust: auto;
+	width: 100%;
+}
+
+.card {
+	width: 100%;
+}
+.row {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.store-3btn {
+	width: 60%;
+	margin-left: 30%;
+}
+
+p {
+	text-align: justify;
+}
+.store-1btn {
+	width: 20%;
+	margin-left: 40%;
+}
+
+@media (max-width: 576px) {
+	.store-1btn {
+		width: 50%;
+		margin-left: 20%;
+	}
+	.store-3btn {
+		width: 50%;
+		margin-left: 20%;
+	}
+}
+
+.detailimages {
+	width: 30%;
+	height: 30%;
+}
+
+.linklist {
+	text-align: left;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 3.5em;
+	text-align: center;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.singlepic {
+	object-position: center;
+}
