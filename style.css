@@ -13,6 +13,12 @@ body {
 	font-weight:200;
 }
 
+.dropmenu{
+	margin-left: 30%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
 .btn {
 	background-color: inherit;
 }
@@ -20,7 +26,6 @@ body {
 .card {
 	background-color: inherit;
 }
-
 
 .card-header {
 	font-size: 1.4rem;
@@ -34,6 +39,10 @@ body {
 	font-size-adjust: auto;
 	width: 100%;
 }
+
+/*.bookspics {
+	width: 20%;
+}*/
 
 .card {
 	width: 100%;
